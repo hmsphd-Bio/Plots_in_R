@@ -41,3 +41,5 @@ title(ylab = "Inhibition of Bacterial Growth (%)",
 par(xpd = NA)
 mtext("A",3,line= 0.8,font = 2,adj = -0.15,cex=1.5)
 par(xpd =FALSE)
+
+# It is best to visualize this graph in a 7x7 inches plot window to render correct scaling. 
